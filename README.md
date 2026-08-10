@@ -325,4 +325,4 @@ Your support is what keeps the updates coming.
 >
 ## 💖支持本项目
 如果你觉得本项目对你有帮助，可以前往爱发电赞助支持：
-https://afdian.net/a/333123guozi
+https://afdian.com/a/333123guozi
