@@ -1,0 +1,35 @@
+# 依赖
+node_modules/
+
+# 构建产物
+dist/
+
+# 环境变量
+.env
+*.local
+
+# 运行时数据：项目资料库/AI必读由网页在用户设置的工作目录下生成，不属于源码
+基础资料/
+
+# 本地缓存与个人配置（绝对不能传 GitHub）
+storage/
+.hermes-profile/
+
+# 备份文件
+*.bak*
+*.backup
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 日志
+*.log
+npm-debug.log*

@@ -1,0 +1,32 @@
+{
+  "name": "project-visual-backoffice",
+  "version": "1.0.0",
+  "description": "跨AI框架通用的项目可视化后台：项目文档管理、Wiki知识库、Git版本确认、一键开启新对话，支持拖拽布局",
+  "license": "AGPL-3.0",
+  "author": "果子",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "lucide-react": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-grid-layout": "^2.2.4",
+    "recharts": "^3.10.1",
+    "vite": "latest"
+  },
+  "keywords": [
+    "project-management",
+    "wiki",
+    "git",
+    "documentation",
+    "ai-tools",
+    "productivity"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
