@@ -322,3 +322,7 @@ Your support is what keeps the updates coming.
 [GNU AGPL-3.0](LICENSE) © Guozi
 
 > You are free to use, modify, and distribute this software. But if you provide access to this software over a network to users, you must make the modified source code available to those users.
+>
+## 💖支持本项目
+如果你觉得本项目对你有帮助，可以前往爱发电赞助支持：
+https://afdian.net/a/333123guozi
