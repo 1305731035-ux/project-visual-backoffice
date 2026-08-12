@@ -12,6 +12,7 @@
 [![React](https://img.shields.io/badge/React-19-blue.svg)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-8-purple.svg)](https://vitejs.dev/)
 
+<img width="1844" height="999" alt="image" src="https://github.com/user-attachments/assets/d1011d62-ba3c-4bdc-834b-c6d3801df88f" />
 ---
 
 ## ✨ 特性
